@@ -1,4 +1,4 @@
-# Formation Deep Learning avec CNN pour la Classification d'Images
+# Formation Deep Learning avec CNN pour la classification d'Images
 
 ## Introduction
 
